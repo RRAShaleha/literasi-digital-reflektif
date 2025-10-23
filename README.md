@@ -3,6 +3,14 @@
 **Penulis:** Rinanda R.A. Shaleha, S.Psi., M.A.  
 **Versi:** 1.0 (Oktober 2025)  
 **Lisensi:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+**Status Hak Cipta:**  
+Ciptaan ini telah resmi **terdaftar pada Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia** dengan:  
+- **Nomor Pencatatan:** 001001843  
+- **Nomor Permohonan:** EC002025161583  
+- **Judul Ciptaan:** *Modul Literasi Digital Reflektif: Dari Akses ke Kesadaran Kognitif*  
+- **Tanggal Pencatatan:** 23 Oktober 2025  
+- **Pencipta & Pemegang Hak Cipta:** Rinanda R.A Shaleha  
+- **Jangka Waktu Pelindungan:** Berlaku selama hidup Pencipta dan 70 tahun setelah meninggal dunia  
 
 ---
 
