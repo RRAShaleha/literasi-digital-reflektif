@@ -12,7 +12,7 @@ Modul ini dirancang untuk membantu pembaca mengembangkan **kesadaran digital ref
 Fokus utama modul ini adalah:
 - memahami konsep **literasi digital** secara kognitif dan kontekstual,  
 - mengenali **mekanisme psikologis di balik misinformasi**,  
-- serta mempraktikkan **strategi reflektif dan intervensi “boost & nudge”** untuk memperkuat ketahanan kognitif terhadap hoaks.
+- serta mempraktikkan **strategi reflektif melalui “boost & nudge”** untuk memperkuat ketahanan kognitif terhadap hoaks.
 
 Modul ini memadukan teori dan latihan reflektif praktis agar pembaca dapat melatih diri berpikir analitis, dan empatik di ruang digital.
 
@@ -26,9 +26,10 @@ Jika Anda ingin mengutip modul ini, gunakan format berikut:
 ---
 
 ## 🔗 Unduh Langsung
-📄 [Klik di sini untuk mengunduh PDF dari Google Drive](https://drive.google.com/file/d/1Pu-3DuhdKuDGR1R5g-x7sgNg3QVbAmrZ/view?usp=sharing)
+📄 [Klik di sini untuk mengunduh PDF dari Google Drive](https://drive.google.com/file/d/1ipyYxl_Qob5HpfzOM9NfAA0Bka5AOtYi/view?usp=drive_link)
  
-
+---
+ 
 🪶 **Status Hak Cipta:**  
 Ciptaan ini telah resmi **terdaftar pada Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia** dengan:  
 - **Nomor Pencatatan:** 001001843  
