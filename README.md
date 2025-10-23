@@ -7,12 +7,12 @@
 ---
 
 ## Tentang Modul
-Modul ini dirancang untuk membantu pembaca mengembangkan **kesadaran digital reflektif** — dari sekadar *melek teknologi* menuju kemampuan berpikir kritis dan etis dalam menavigasi ekosistem informasi digital.  
+Modul ini dirancang untuk membantu pembaca mengembangkan kesadaran digital reflektif — dari sekadar *"melek teknologi"* menuju kemampuan berpikir kritis dan etis dalam menavigasi ekosistem informasi digital.  
 
 Fokus utama modul ini adalah:
-- memahami konsep **literasi digital** secara kognitif dan kontekstual,  
-- mengenali **mekanisme psikologis di balik misinformasi**,  
-- serta mempraktikkan **strategi reflektif melalui “boost & nudge”** untuk memperkuat ketahanan kognitif terhadap hoaks.
+- memahami konsep literasi digital secara kognitif dan kontekstual,  
+- mengenali mekanisme psikologis di balik misinformasi,  
+- serta mempraktikkan strategi reflektif melalui *“boost & nudge”* untuk memperkuat ketahanan kognitif terhadap hoaks.
 
 Modul ini memadukan teori dan latihan reflektif praktis agar pembaca dapat melatih diri berpikir analitis, dan empatik di ruang digital.
 
