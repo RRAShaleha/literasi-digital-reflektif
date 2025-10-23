@@ -14,7 +14,7 @@ Fokus utama modul ini adalah:
 - mengenali **mekanisme psikologis di balik misinformasi**,  
 - serta mempraktikkan **strategi reflektif dan intervensi “boost & nudge”** untuk memperkuat ketahanan kognitif terhadap hoaks.
 
-Modul ini memadukan teori dan latihan reflektif praktis agar pembaca dapat melatih diri berpikir analitis dan empatik di ruang digital.
+Modul ini memadukan teori dan latihan reflektif praktis agar pembaca dapat melatih diri berpikir analitis, dan empatik di ruang digital.
 
 ---
 
@@ -26,16 +26,16 @@ Jika Anda ingin mengutip modul ini, gunakan format berikut:
 ---
 
 ## 🔗 Unduh Langsung
-📄 [Klik di sini untuk mengunduh PDF dari Google Drive](https://drive.google.com/file/d/1i08Rhc6xhud6bYiBHn9f_j1YWpdo93Hb/view?usp=drive_link)
+📄 [Klik di sini untuk mengunduh PDF dari Google Drive](https://drive.google.com/file/d/1Pu-3DuhdKuDGR1R5g-x7sgNg3QVbAmrZ/view?usp=sharing)
+ 
 
-© 2025 Rinanda R.A. Shaleha. Materi ini dirilis untuk tujuan edukatif non-komersial.  
-
-**Status Hak Cipta:**  
+🪶 **Status Hak Cipta:**  
 Ciptaan ini telah resmi **terdaftar pada Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia** dengan:  
 - **Nomor Pencatatan:** 001001843  
 - **Nomor Permohonan:** EC002025161583  
 - **Judul Ciptaan:** *Modul Literasi Digital Reflektif: Dari Akses ke Kesadaran Kognitif*  
 - **Tanggal Pencatatan:** 23 Oktober 2025  
-- **Pencipta & Pemegang Hak Cipta:** Rinanda R.A Shaleha  
+- **Pencipta & Pemegang Hak Cipta:** Rinanda Rizky Amalia Shaleha  
 - **Jangka Waktu Pelindungan:** Berlaku selama hidup Pencipta dan 70 tahun setelah meninggal dunia  
 
+© 2025 Rinanda R.A. Shaleha. Materi ini dirilis untuk tujuan edukatif non-komersial. 
